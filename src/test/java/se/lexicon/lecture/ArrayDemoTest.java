@@ -1,4 +1,4 @@
-package se.lexicon;
+package se.lexicon.lecture;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.MethodOrderer;

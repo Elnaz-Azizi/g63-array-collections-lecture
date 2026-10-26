@@ -1,4 +1,4 @@
-package se.lexicon.share_to_student;
+package se.lexicon.lecture.share_to_student;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package se.lexicon;
+package se.lexicon.lecture;
 
 import java.util.ArrayList;
 import java.util.Arrays;
